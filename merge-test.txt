@@ -1,0 +1,2 @@
+﻿Merge test 1
+Merge test 2

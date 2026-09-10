@@ -1,1 +1,2 @@
 ﻿Rebase merge test 1
+Rebase merge test 2

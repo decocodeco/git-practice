@@ -1,0 +1,2 @@
+﻿Squash test 1
+Squash test 2
